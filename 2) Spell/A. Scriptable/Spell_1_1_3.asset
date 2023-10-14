@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a551df62a2a3cbd43993fa88993fac65, type: 3}
+  m_Name: Spell_1_1_3
+  m_EditorClassIdentifier: 
+  spell_code: Spell_1_1_3
+  spell_title: "\uC36C\uB354\uD30C\uC774"
+  spell_icon: {fileID: 21300000, guid: ba2c60aadee483a4c8b5a5959e1fd8e1, type: 3}
+  spell_prefab: {fileID: 3184812221813029217, guid: 7cc99992f9d95fa419f26f71409ad9dc, type: 3}
+  level: 1
+  basic_damage: 3
+  attack_count: 3
+  is_opened: 1
+  projectile: 1
+  spell_power: 1.3

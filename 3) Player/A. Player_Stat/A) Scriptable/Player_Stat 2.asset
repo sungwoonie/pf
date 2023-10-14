@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f9d058bd5cb4d43b5375e86f1958e9, type: 3}
+  m_Name: Player_Stat 2
+  m_EditorClassIdentifier: 
+  critical_damage_level_gold: 2
+  critical_ratio_level_gold: 2
+  spell_power_level_gold: 2
+  casting_speed_level_gold: 2
+  critical_damage_level_ruby: 2
+  critical_ratio_level_ruby: 2
+  spell_power_level_ruby: 2
+  casting_speed_level_ruby: 2
